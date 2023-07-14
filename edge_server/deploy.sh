@@ -1,2 +1,2 @@
 #! /usr/bin/env bash
-docker run -d edge-server:v1 -p 8000:80git add
+docker run -d -p 8000:80 edge_server:v1

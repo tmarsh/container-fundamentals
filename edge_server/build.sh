@@ -1,2 +1,2 @@
 #! /usr/bin/env bash
-docker build -t edge-server:v1 . 
+docker build -t edge_server:v1 . 
